@@ -1,0 +1,21 @@
+{
+  "name": "invoicegenerator",
+  "version": false,
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "core-js": "registry:dt/core-js#0.0.0+20160602141332",
+    "es6-promise": "registry:dt/es6-promise#0.0.0+20160614011821",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160715232503",
+    "glob": "registry:dt/glob#5.0.10+20160317120654",
+    "glob-stream": "registry:dt/glob-stream#3.1.12+20160316155526",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "minimatch": "registry:dt/minimatch#2.0.8+20160317120654",
+    "node": "registry:dt/node#6.0.0+20160805072842",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "undertaker": "registry:dt/undertaker#0.12.0+20160316155526",
+    "vinyl": "registry:dt/vinyl#1.1.0+20160316155526",
+    "vinyl-fs": "registry:dt/vinyl-fs#0.0.0+20160317120654"
+  }
+}
